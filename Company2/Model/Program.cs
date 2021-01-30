@@ -59,7 +59,7 @@ namespace Model
 
        private static int[] salaires()
        {
-           return new[] {1000, 1000, 500, 558774, 2255};
+           return new[] {1000, 1000, 500, 558, 2255};
        }
         
     }
